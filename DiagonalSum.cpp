@@ -3,7 +3,7 @@
 using namespace std;
  
 string ltrim(const string &);
-string rtrim(const string &);
+string rtrim(const string &); 
 vector<string> split(const string &);
 
 int diagonalDifference(vector<vector<int>> arr) {
